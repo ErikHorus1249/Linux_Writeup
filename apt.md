@@ -82,11 +82,12 @@ apt cũng có một số lệnh của riêng nó.
 
 ## III. Kết luận 
 
-Khi Debian nói "pleasant for end users", nó thực sự có nghĩa là như vậy không giống "WindowN". Lệnh apt có ít tùy chọn hơn nhưng đầy đủ theo cách có tổ chức hơn. Trên hết, nó cho phép một số tùy chọn theo mặc định thực sự hữu ích cho người dùng cuối. apt sinh ra trong một thế giới kỳ lạ - miền đất cộng sản của thế giới công nghệ với cái tên  **open source**  nơi phong trào Free software khởi phát mạnh mẽ, cũng là thiên đường cho sự tiện lợi vì sự phát triển chung của cộng đồng mà không bị giàng buộc bởi giá trị lợi ích thương mại nào.
-Do tính tiện dụng của nó nên các distro dần học hỏi nhau và đưa nó vào hệ thống lệnh của mình. Giờ đây các distro  nền tảng từ Debian đều đã cập nhật nó như một phần không thể thiếu. Tuy nhiên apt-get và các tool còn lại vẫn tiếp tục vòng đời của mình vì tính hữu dụng, sự phổ biến của apt không có nghĩa là cái chết cho chúng.
+Khi Debian nói "pleasant for end users", nó thực sự có nghĩa là như vậy không giống "WindowN". Lệnh apt có ít tùy chọn hơn nhưng đầy đủ theo cách có tổ chức hơn. Trên hết, nó cho phép một số tùy chọn theo mặc định thực sự hữu ích cho người dùng cuối. apt sinh ra trong một thế giới kỳ lạ - miền đất cộng sản của thế giới công nghệ với cái tên  **open source**  nơi phong trào Free software khởi phát mạnh mẽ, cũng là thiên đường cho tự do vì sự phát triển chung của cộng đồng mà không bị giàng buộc bởi giá trị lợi ích **thương mại** nào.
+
+Do tính tiện dụng của nó nên các distro dần học hỏi nhau và đưa nó vào hệ thống lệnh của mình. Giờ đây các distro  nền tảng từ Debian đều đã cập nhật nó như một phần không thể thiếu. Tuy nhiên apt-get và các tool còn lại vẫn tiếp tục vòng đời của mình vì tính hữu dụng, sự phổ biến của **apt** không có nghĩa là cái chết cho chúng.
 
 ![](https://i.imgur.com/FiB3Jb5.jpg)
-##### H1.6. My idol Richard Stallman
+##### H1.10. My idol Richard Stallman
 ### Reference :
 - **[Itfoss](https://itsfoss.com/apt-vs-apt-get-difference/)**
 - **[Linux Mint forums](https://forums.linuxmint.com/viewtopic.php?t=259891)** 
